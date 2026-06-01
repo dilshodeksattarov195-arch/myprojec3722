@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderspdate",
+        "uuid": 30583674,
+        "checksum": "6mzp3l"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
